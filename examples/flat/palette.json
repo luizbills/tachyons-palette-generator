@@ -1,0 +1,23 @@
+{
+	"green": "#2ECC71",
+	"green-dark": "#27AE60",
+	
+	"blue": "#3498DB",
+	"blue-dark": "#2980B9",
+	
+	"pink": "#EA4C88",
+	
+	"purple": "#9B59B6",
+	
+	"yellow": "#F1C40F",
+	"orange": "#F39C12",
+	"red": "#E74C3C",
+	"red-dark": "#C0392B",
+
+	"gray-light": "#BDC3C7",
+	"gray": "#95A5A6",
+	"gray-dark": "#7F8C8D",
+
+	"black": "#222",
+	"white": "#FFF"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tachyons-palette-generator",
+  "version": "1.0.0",
+  "description": "generate pallete colors to be used with tachyons",
+  "main": "index.js",
+  "author": "Luiz Bills",
+  "license": "MIT"
+}
